@@ -15,7 +15,7 @@ The neural model outperformed N-gram model on reference corpus as shown below.
 
 | Metrics             | N-gram | RNN       |
 |:-------------------:|:------:|:---------:|
-| Sentence Accuracy   | 41.5%  | 44.2%     |
+| Sentence Accuracy   | 41.5%  | **44.2%** |
 | Prediction Accuracy | 22.9%  | **26.7%** |
 
 # Training your own models
